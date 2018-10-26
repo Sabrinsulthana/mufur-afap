@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/4e1373f7aa0963c370d7e73b234a6e370f8a9846/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_7740e079325827acc320903223139995b0df7d1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.10.0/ec614c05825ddd2267677a99f585d3913474b125/okhttp-urlconnection-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ec614c05825ddd2267677a99f585d3913474b125">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.10.0_1eb8e029f5f4372f7594aaf78b12f9794b96ad33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/009c19b8c6fc8ec5b62b5b406a6cb00e10b468b6/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="1c9837ec75b2273699379c2ba0ae63d669b4f08c">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_69a34785a10f102e4bd26709baba38bfbd5b62b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.14.0/102d7be47241d781ef95f1581d414b0943053130/okio-1.14.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="102d7be47241d781ef95f1581d414b0943053130">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/okio-1.14.0_42a90c48792e79c9c840b3de45aa614cda3deaff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/5be93f63cab646fec0d6ff65c25751d04f55be21/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="da59c80e4a1c8df62d2b4188ef3efddab8afa236">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_3f9bb31c02a05ea7c62750f11e4cfbd3b7a352dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/7c41ad237003c5a3d689dd042eaef61f303dadbf/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_5717fe94d5bb093310555c63c71414e73bdae706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/android.arch.lifecycle/common/1.0.0/e414a4cb28434e25c4f6aa71426eb20cf4874ae9/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_70d06ab86c8d267021ce17b519c0753c5b4b2fa4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/a90b891877b0a109d19fa1a6a60fda0c2ceaaf08/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_8564d307f00fe7a602fc1cd4c70902d946a90780.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/android.arch.core/common/1.0.0/a2d487452376193fc8c103dd2b9bd5f2b1b44563/common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/common-1.0.0_e50975bfa680ce6fec47a242c2abced410e89862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/a149467ed59c238cbe537d14b6744d86bf025328/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_cb82d9d3fa367c2809819c40761fbec48a643dc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_422abdce60a76fef0d135bb1faa6aa686d20c281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/6c913c505ca84107f1c385f31f678fea0164a551/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_c75985606e1681c26da4b37957e55984d6ea3928.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.10.0/7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e/okhttp-3.10.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7ef0f1d95bf4c0b3ba30bbae25e0e562b05cf75e">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/okhttp-3.10.0_ed3ee3d5408f525775d104fbc0a01d74c61de7d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/f61ec01277e050d76e96972138efe5a8f91e94df/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_c8e55d06811c4791c71cd528f3098fd6fd8c5f9b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/521a59184d4469e50b2982bbe56d83e99746c5ca/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_733a226182542e77da5e4a896252d60afcabed04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/955772915c855b5fc301238df178aba8b08f6e83/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_d5267504e2fc0b5a10894f28e39867e261608958.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/7b9bc042ae8d31ff15f26968020bf643a6581d18/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_c8153871068f85415cd1878b179b5d68c76709b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/0e5224ccc385e0ee26233555cb1fb7e0376ef7ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="87382214d92be4e3c931cb6aa7aa4e827bc179b7">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_a6128bf5d4f83859c4167b9b19c12fa9b915e964.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/9696251bd2acecd02d2bab06335622088a15eef3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_b7b5081c0bbc457f36fb4f9f4b05802fbeabf8be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/274e0112cbecc091d82ccf7d473380d282e11299/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="9803a14716e9f462afb5742811f3456c39f3be3a">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_caa463290ba743fc1030bb4ebbde5c12745bfc3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/8af826414e26d84e136fe6120e5a3804004803c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_4718fc692efb72ef7c5a8f038e7afc06867ff342.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_d52359ecf4272f89e53f3682656f0967baf96fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/8b0dcd281f4ebe222c7bdf2a1cf897aabf0a0ad7/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_32d900ad2d9fc1070eb18f5392f1e962604c5205.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_b496b125c098b527dba2e7c8a83396b50b4f935a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/7c41ad237003c5a3d689dd042eaef61f303dadbf/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="e7a850c25a7efbd533c496ab482c980fdafac58d">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_3dc40824c07d5fc2b1e7913d29b582c5c89528d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/7ab45832a2f22656904063a49b9ec0b36c6da344/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="ae15c560bc6685007440d8a70686f8348bafd791">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_9f3a0a07b441852ee3040ec845c6faad109c22dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.android.support/support-annotations/26.1.0/814258103cf26a15fcc26ecce35f5b7d24b73f8/support-annotations-26.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/support-annotations-26.1.0_e2ea6d9039e089cd0ab4324a2be502170ee2b785.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/4fd2cece0b7945fbce5bf93ddb5916772cc8a38d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f80a752d1333efd4fb9b87da63e73909acb151af">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_d77499bb2fe032cdb17421d2828fbec791840a24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_8ff2885c7f8d80992917c3df6c93d06ee2f682a7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/chainflux/.android/build-cache/275b3167a3c1f39c62aeef90ec65ae8a396f0107/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.3"
+        sha1="dc6c0959ecc7b21932675183573b2bcecf2687b9">
+        <dex dex="/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/pre-dexed/debug/classes_daa0d3dce2f9b0ecaa99a9c5995c3a443636aae5.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/home/chainflux/.android/build-cache/8af826414e26d84e136fe6120e5a3804004803c2/output/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/home/chainflux/.android/build-cache/8af826414e26d84e136fe6120e5a3804004803c2/output/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    }
+]

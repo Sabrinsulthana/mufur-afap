@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/chainflux/.android/build-cache/6c913c505ca84107f1c385f31f678fea0164a551/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/chainflux/.android/build-cache/6c913c505ca84107f1c385f31f678fea0164a551/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/chainflux/.android/build-cache/6c913c505ca84107f1c385f31f678fea0164a551/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/chainflux/Desktop/sabrin/murmur-master/android/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/chainflux/.android/build-cache/6c913c505ca84107f1c385f31f678fea0164a551/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]
